@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'AlteHaasGroteskBold';
+	src: url('../fonts/AlteHaasGrotesk/AlteHaasGroteskBold/AlteHaasGroteskBold.eot');
+	src: url('../fonts/AlteHaasGrotesk/AlteHaasGroteskBold/AlteHaasGroteskBold.woff') format('woff'),
+		 url('../fonts/AlteHaasGrotesk/AlteHaasGroteskBold/AlteHaasGroteskBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'LavanderiaRegular';
+	src: url('../fonts/Lavanderia/LavanderiaRegular.eot');
+	src: url('../fonts/Lavanderia/LavanderiaRegular.woff') format('woff'),
+		 url('../fonts/Lavanderia/LavanderiaRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Univers-Light-Normal';
+	src: url('../fonts/UniversLT/Univers-Light-Normal.eot');
+	src: url('../fonts/UniversLT/Univers-Light-Normal.woff') format('woff'),
+		 url('../fonts/UniversLT/Univers-Light-Normal.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
